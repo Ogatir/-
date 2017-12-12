@@ -42,7 +42,7 @@ public class Authorizer {
      * at ~/.credentials/drive-java-quickstart
      */
     private static final List<String> SCOPES =
-            Arrays.asList(DriveScopes.DRIVE_METADATA_READONLY);
+            Arrays.asList(DriveScopes.DRIVE);
 
     static {
         try {
@@ -89,6 +89,7 @@ public class Authorizer {
 
         System.out.println(
                 "Credentials saved to " + DATA_STORE_DIR.getAbsolutePath());
+
         return credential;
     }
 
