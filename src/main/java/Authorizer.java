@@ -62,7 +62,7 @@ public class Authorizer {
     private Credential authorize() throws IOException {
         // Load client secrets.
         InputStream in =
-                HelloWorld.class.getResourceAsStream("/client_secret.json");
+                ExecutionEngine.class.getResourceAsStream("/client_secret.json");
         GoogleClientSecrets clientSecrets =
                 GoogleClientSecrets.load(JSON_FACTORY, new InputStreamReader(in));
 
