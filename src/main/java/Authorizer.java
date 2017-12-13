@@ -11,6 +11,7 @@ import com.google.api.client.util.store.FileDataStoreFactory;
 import com.google.api.services.drive.Drive;
 import com.google.api.services.drive.DriveScopes;
 
+import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
@@ -20,7 +21,7 @@ import java.util.Scanner;
 
 public class Authorizer {
     /** Application name. */
-    private static final String APPLICATION_NAME = "Drive API Java Quickstart";
+    private static final String APPLICATION_NAME = "KursRabAuto";
 
     /** Directory to store user credentials for this application. */
     private static final java.io.File DATA_STORE_DIR = new java.io.File(
@@ -68,14 +69,14 @@ public class Authorizer {
 
         //Проверяем файл мандата
         if (!new java.io.File(DATA_STORE_DIR + "//StoredCredential").exists())
-            System.out.println("Access token doesn't exist");
+            DBG.Log("Access token doesn't exist");
         else {
             //Если пользователь хочет сменить аккаунт, меняем файл мандата.
-            System.out.println("Хотите авторизоваться как новый пользователь (y/n)?");
+            DBG.Log("Хотите авторизоваться как новый пользователь (y/n)?");
             Scanner consoleInput = new Scanner(System.in);
             if (consoleInput.next().compareToIgnoreCase("y") == 0)
                 new java.io.File(DATA_STORE_DIR + "//StoredCredential").delete();
-            System.out.println("Access token exists");
+            DBG.Log("Access token exists");
         }
         // Build flow and trigger user authorization request.
         GoogleAuthorizationCodeFlow flow =
@@ -87,9 +88,7 @@ public class Authorizer {
         Credential credential = new AuthorizationCodeInstalledApp(
                 flow, new LocalServerReceiver()).authorize("user");
 
-        System.out.println(
-                "Credentials saved to " + DATA_STORE_DIR.getAbsolutePath());
-
+        DBG.Log("Credentials saved to " + DATA_STORE_DIR.getAbsolutePath());
         return credential;
     }
 

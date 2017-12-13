@@ -1,1 +1,1119 @@
-Hello world!
+---- IntelliJ IDEA coverage runner ---- 
+sampling ...
+include patterns:
+exclude patterns:
+
+Program execution begins
+------------------------------------------------------
+
+[Вт дек 12 21:37:53 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Вт дек 12 21:37:59 MSK 2017] Access token exists
+[Вт дек 12 21:38:00 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Вт дек 12 21:38:01 MSK 2017] Files:
+[Вт дек 12 21:38:01 MSK 2017] 1: photo.jpg (1TSrThTLLYxVq7s0gLbYKJZk475x0HtfS) is a jpg
+[Вт дек 12 21:38:01 MSK 2017] 2: lul17221158.mp4 (0B74bSNiSY__lRGc1SC1WakRacmM) is a mp4
+[Вт дек 12 21:38:01 MSK 2017] 3: Газета "Датская правда" (0B7R_CCX8Rv4DY253M3pYenFNNE0) is a null
+[Вт дек 12 21:38:01 MSK 2017] 4: Реестр проблем  (1QSfeTQdRTVfoNWKm4hof4Y-Db3tlfa_69s6vpRA_skU) is a null
+[Вт дек 12 21:38:01 MSK 2017] 5: Компьютерная лингвистика №1_ зачем лингвисту компьютер.mp4 (0BwMZmBKv-CU4UHRlVTVRLU9nWFk) is a mp4
+[Вт дек 12 21:38:01 MSK 2017] 6: IMG_3322.rar (0BwMZmBKv-CU4Ri1pZFBnQmp0TW8) is a rar
+[Вт дек 12 21:38:01 MSK 2017] 7: устройство виндовс 7 книга (0B_O9BeTRl0clSFd6anE4aVBqQms) is a 
+[Вт дек 12 21:38:01 MSK 2017] 8: Хрень (0B-XFPJFSzOqxNHFiOGJWSldtR1k) is a null
+[Вт дек 12 21:38:01 MSK 2017] 9: Во имя Марса (1-Rhhjx01i8-OmQnrkUC7-ijRPezFogpNgoJj-DwzcbQ) is a null
+[Вт дек 12 21:38:01 MSK 2017] 10: How to get started with Drive (0B-XFPJFSzOqxc3RhcnRlcl9maWxl) is a 
+[Вт дек 12 21:38:02 MSK 2017] Main executed
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Вт дек 12 21:39:06 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Вт дек 12 21:39:08 MSK 2017] Access token exists
+[Вт дек 12 21:39:08 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Вт дек 12 21:39:09 MSK 2017] Files:
+[Вт дек 12 21:39:09 MSK 2017] 1: photo.jpg (1TSrThTLLYxVq7s0gLbYKJZk475x0HtfS) is a jpg
+[Вт дек 12 21:39:09 MSK 2017] 2: lul17221158.mp4 (0B74bSNiSY__lRGc1SC1WakRacmM) is a mp4
+[Вт дек 12 21:39:09 MSK 2017] 3: Газета "Датская правда" (0B7R_CCX8Rv4DY253M3pYenFNNE0) is a null
+[Вт дек 12 21:39:09 MSK 2017] 4: Реестр проблем  (1QSfeTQdRTVfoNWKm4hof4Y-Db3tlfa_69s6vpRA_skU) is a null
+[Вт дек 12 21:39:09 MSK 2017] 5: Компьютерная лингвистика №1_ зачем лингвисту компьютер.mp4 (0BwMZmBKv-CU4UHRlVTVRLU9nWFk) is a mp4
+[Вт дек 12 21:39:09 MSK 2017] 6: IMG_3322.rar (0BwMZmBKv-CU4Ri1pZFBnQmp0TW8) is a rar
+[Вт дек 12 21:39:09 MSK 2017] 7: устройство виндовс 7 книга (0B_O9BeTRl0clSFd6anE4aVBqQms) is a 
+[Вт дек 12 21:39:09 MSK 2017] 8: Хрень (0B-XFPJFSzOqxNHFiOGJWSldtR1k) is a null
+[Вт дек 12 21:39:09 MSK 2017] 9: Во имя Марса (1-Rhhjx01i8-OmQnrkUC7-ijRPezFogpNgoJj-DwzcbQ) is a null
+[Вт дек 12 21:39:09 MSK 2017] 10: How to get started with Drive (0B-XFPJFSzOqxc3RhcnRlcl9maWxl) is a 
+[Вт дек 12 21:39:10 MSK 2017] Main executed
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Вт дек 12 21:52:13 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Вт дек 12 21:52:26 MSK 2017] Access token exists
+[Вт дек 12 21:52:26 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Вт дек 12 21:52:41 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Вт дек 12 21:52:45 MSK 2017] Access token exists
+[Вт дек 12 21:52:45 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Вт дек 12 21:52:46 MSK 2017] Files:
+
+Program execution begins
+------------------------------------------------------
+
+[Вт дек 12 21:56:18 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Вт дек 12 21:56:20 MSK 2017] Access token exists
+[Вт дек 12 21:56:21 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Вт дек 12 21:57:23 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Вт дек 12 21:57:25 MSK 2017] Access token exists
+[Вт дек 12 21:57:25 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Вт дек 12 21:57:29 MSK 2017] Files:
+[Вт дек 12 21:57:29 MSK 2017] 1: image.jpg (1yRxi2PAfRHIzV2XtfiuD-hXFIpXXg4vS) is a jpg
+[Вт дек 12 21:57:29 MSK 2017] 2: photo.jpg (1TSrThTLLYxVq7s0gLbYKJZk475x0HtfS) is a jpg
+[Вт дек 12 21:57:29 MSK 2017] 3: lul17221158.mp4 (0B74bSNiSY__lRGc1SC1WakRacmM) is a mp4
+[Вт дек 12 21:57:29 MSK 2017] 4: Газета "Датская правда" (0B7R_CCX8Rv4DY253M3pYenFNNE0) is a null
+[Вт дек 12 21:57:29 MSK 2017] 5: Реестр проблем  (1QSfeTQdRTVfoNWKm4hof4Y-Db3tlfa_69s6vpRA_skU) is a null
+[Вт дек 12 21:57:29 MSK 2017] 6: Компьютерная лингвистика №1_ зачем лингвисту компьютер.mp4 (0BwMZmBKv-CU4UHRlVTVRLU9nWFk) is a mp4
+[Вт дек 12 21:57:29 MSK 2017] 7: IMG_3322.rar (0BwMZmBKv-CU4Ri1pZFBnQmp0TW8) is a rar
+[Вт дек 12 21:57:29 MSK 2017] 8: устройство виндовс 7 книга (0B_O9BeTRl0clSFd6anE4aVBqQms) is a 
+[Вт дек 12 21:57:29 MSK 2017] 9: Хрень (0B-XFPJFSzOqxNHFiOGJWSldtR1k) is a null
+[Вт дек 12 21:57:29 MSK 2017] 10: Во имя Марса (1-Rhhjx01i8-OmQnrkUC7-ijRPezFogpNgoJj-DwzcbQ) is a null
+[Вт дек 12 21:57:29 MSK 2017] 11: How to get started with Drive (0B-XFPJFSzOqxc3RhcnRlcl9maWxl) is a 
+[Вт дек 12 21:57:30 MSK 2017] Main executed
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Вт дек 12 21:58:32 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Вт дек 12 21:58:35 MSK 2017] Access token exists
+[Вт дек 12 21:58:35 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Вт дек 12 21:58:36 MSK 2017] Files:
+[Вт дек 12 21:58:36 MSK 2017] 1: image.jpg (1yRxi2PAfRHIzV2XtfiuD-hXFIpXXg4vS) is a jpg
+[Вт дек 12 21:58:36 MSK 2017] 2: photo.jpg (1TSrThTLLYxVq7s0gLbYKJZk475x0HtfS) is a jpg
+[Вт дек 12 21:58:36 MSK 2017] 3: lul17221158.mp4 (0B74bSNiSY__lRGc1SC1WakRacmM) is a mp4
+[Вт дек 12 21:58:36 MSK 2017] 4: Газета "Датская правда" (0B7R_CCX8Rv4DY253M3pYenFNNE0) is a null
+[Вт дек 12 21:58:36 MSK 2017] 5: Реестр проблем  (1QSfeTQdRTVfoNWKm4hof4Y-Db3tlfa_69s6vpRA_skU) is a null
+[Вт дек 12 21:58:36 MSK 2017] 6: Компьютерная лингвистика №1_ зачем лингвисту компьютер.mp4 (0BwMZmBKv-CU4UHRlVTVRLU9nWFk) is a mp4
+[Вт дек 12 21:58:36 MSK 2017] 7: IMG_3322.rar (0BwMZmBKv-CU4Ri1pZFBnQmp0TW8) is a rar
+[Вт дек 12 21:58:36 MSK 2017] 8: устройство виндовс 7 книга (0B_O9BeTRl0clSFd6anE4aVBqQms) is a 
+[Вт дек 12 21:58:36 MSK 2017] 9: Хрень (0B-XFPJFSzOqxNHFiOGJWSldtR1k) is a null
+[Вт дек 12 21:58:36 MSK 2017] 10: Во имя Марса (1-Rhhjx01i8-OmQnrkUC7-ijRPezFogpNgoJj-DwzcbQ) is a null
+[Вт дек 12 21:58:36 MSK 2017] 11: How to get started with Drive (0B-XFPJFSzOqxc3RhcnRlcl9maWxl) is a 
+[Вт дек 12 21:58:36 MSK 2017] Main executed
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Вт дек 12 21:58:53 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Вт дек 12 21:58:56 MSK 2017] Access token exists
+[Вт дек 12 21:58:56 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Вт дек 12 21:58:57 MSK 2017] Files:
+[Вт дек 12 21:58:57 MSK 2017] 1: image.jpg (1yRxi2PAfRHIzV2XtfiuD-hXFIpXXg4vS) is a jpg
+[Вт дек 12 21:58:57 MSK 2017] 2: photo.jpg (1TSrThTLLYxVq7s0gLbYKJZk475x0HtfS) is a jpg
+[Вт дек 12 21:58:57 MSK 2017] 3: lul17221158.mp4 (0B74bSNiSY__lRGc1SC1WakRacmM) is a mp4
+[Вт дек 12 21:58:57 MSK 2017] 4: Газета "Датская правда" (0B7R_CCX8Rv4DY253M3pYenFNNE0) is a null
+[Вт дек 12 21:58:57 MSK 2017] 5: Реестр проблем  (1QSfeTQdRTVfoNWKm4hof4Y-Db3tlfa_69s6vpRA_skU) is a null
+[Вт дек 12 21:58:57 MSK 2017] 6: Компьютерная лингвистика №1_ зачем лингвисту компьютер.mp4 (0BwMZmBKv-CU4UHRlVTVRLU9nWFk) is a mp4
+[Вт дек 12 21:58:57 MSK 2017] 7: IMG_3322.rar (0BwMZmBKv-CU4Ri1pZFBnQmp0TW8) is a rar
+[Вт дек 12 21:58:57 MSK 2017] 8: устройство виндовс 7 книга (0B_O9BeTRl0clSFd6anE4aVBqQms) is a 
+[Вт дек 12 21:58:57 MSK 2017] 9: Хрень (0B-XFPJFSzOqxNHFiOGJWSldtR1k) is a null
+[Вт дек 12 21:58:57 MSK 2017] 10: Во имя Марса (1-Rhhjx01i8-OmQnrkUC7-ijRPezFogpNgoJj-DwzcbQ) is a null
+[Вт дек 12 21:58:57 MSK 2017] 11: How to get started with Drive (0B-XFPJFSzOqxc3RhcnRlcl9maWxl) is a 
+[Вт дек 12 21:58:58 MSK 2017] Main executed
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 10:49:31 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 10:49:35 MSK 2017] Access token exists
+[Ср дек 13 10:49:35 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 10:49:38 MSK 2017] Files:
+[Ср дек 13 10:49:38 MSK 2017] 1: image.jpg (1yRxi2PAfRHIzV2XtfiuD-hXFIpXXg4vS) is a jpg
+[Ср дек 13 10:49:38 MSK 2017] 2: photo.jpg (1TSrThTLLYxVq7s0gLbYKJZk475x0HtfS) is a jpg
+[Ср дек 13 10:49:38 MSK 2017] 3: lul17221158.mp4 (0B74bSNiSY__lRGc1SC1WakRacmM) is a mp4
+[Ср дек 13 10:49:38 MSK 2017] 4: Газета "Датская правда" (0B7R_CCX8Rv4DY253M3pYenFNNE0) is a null
+[Ср дек 13 10:49:38 MSK 2017] 5: Реестр проблем  (1QSfeTQdRTVfoNWKm4hof4Y-Db3tlfa_69s6vpRA_skU) is a null
+[Ср дек 13 10:49:38 MSK 2017] 6: Компьютерная лингвистика №1_ зачем лингвисту компьютер.mp4 (0BwMZmBKv-CU4UHRlVTVRLU9nWFk) is a mp4
+[Ср дек 13 10:49:38 MSK 2017] 7: IMG_3322.rar (0BwMZmBKv-CU4Ri1pZFBnQmp0TW8) is a rar
+[Ср дек 13 10:49:38 MSK 2017] 8: устройство виндовс 7 книга (0B_O9BeTRl0clSFd6anE4aVBqQms) is a 
+[Ср дек 13 10:49:38 MSK 2017] 9: Хрень (0B-XFPJFSzOqxNHFiOGJWSldtR1k) is a null
+[Ср дек 13 10:49:38 MSK 2017] 10: Во имя Марса (1-Rhhjx01i8-OmQnrkUC7-ijRPezFogpNgoJj-DwzcbQ) is a null
+[Ср дек 13 10:49:38 MSK 2017] 11: How to get started with Drive (0B-XFPJFSzOqxc3RhcnRlcl9maWxl) is a 
+[Ср дек 13 10:49:38 MSK 2017] Main executed
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 11:03:29 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 11:03:30 MSK 2017] Access token exists
+[Ср дек 13 11:03:31 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 11:03:33 MSK 2017] Files:
+[Ср дек 13 11:03:33 MSK 2017] 1: image.jpg (1yRxi2PAfRHIzV2XtfiuD-hXFIpXXg4vS) is a jpg
+[Ср дек 13 11:03:33 MSK 2017] 2: photo.jpg (1TSrThTLLYxVq7s0gLbYKJZk475x0HtfS) is a jpg
+[Ср дек 13 11:03:33 MSK 2017] 3: lul17221158.mp4 (0B74bSNiSY__lRGc1SC1WakRacmM) is a mp4
+[Ср дек 13 11:03:33 MSK 2017] 4: Газета "Датская правда" (0B7R_CCX8Rv4DY253M3pYenFNNE0) is a null
+[Ср дек 13 11:03:33 MSK 2017] 5: Реестр проблем  (1QSfeTQdRTVfoNWKm4hof4Y-Db3tlfa_69s6vpRA_skU) is a null
+[Ср дек 13 11:03:33 MSK 2017] 6: Компьютерная лингвистика №1_ зачем лингвисту компьютер.mp4 (0BwMZmBKv-CU4UHRlVTVRLU9nWFk) is a mp4
+[Ср дек 13 11:03:33 MSK 2017] 7: IMG_3322.rar (0BwMZmBKv-CU4Ri1pZFBnQmp0TW8) is a rar
+[Ср дек 13 11:03:33 MSK 2017] 8: устройство виндовс 7 книга (0B_O9BeTRl0clSFd6anE4aVBqQms) is a 
+[Ср дек 13 11:03:33 MSK 2017] 9: Хрень (0B-XFPJFSzOqxNHFiOGJWSldtR1k) is a null
+[Ср дек 13 11:03:33 MSK 2017] 10: Во имя Марса (1-Rhhjx01i8-OmQnrkUC7-ijRPezFogpNgoJj-DwzcbQ) is a null
+[Ср дек 13 11:03:33 MSK 2017] 11: How to get started with Drive (0B-XFPJFSzOqxc3RhcnRlcl9maWxl) is a 
+[Ср дек 13 11:03:33 MSK 2017] Main executed
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 11:11:17 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 11:11:22 MSK 2017] Access token exists
+[Ср дек 13 11:11:22 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 11:19:31 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 11:19:34 MSK 2017] Access token exists
+[Ср дек 13 11:19:34 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 11:35:05 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 11:35:10 MSK 2017] Access token exists
+[Ср дек 13 11:35:10 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 11:35:13 MSK 2017] File Во имя Марса has been downloaded
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 11:35:43 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 11:35:46 MSK 2017] Access token exists
+[Ср дек 13 11:35:47 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 11:35:49 MSK 2017] File Во имя Марса has been downloaded
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 11:36:06 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 11:36:10 MSK 2017] Access token exists
+[Ср дек 13 11:36:10 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 11:36:13 MSK 2017] File "Во имя Марса" has been downloaded
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 11:41:05 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 11:41:08 MSK 2017] Access token exists
+[Ср дек 13 11:41:08 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 11:46:38 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 11:46:40 MSK 2017] Access token exists
+[Ср дек 13 11:46:40 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 11:46:43 MSK 2017] File "Во имя Марса" has been downloaded
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 11:49:02 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 11:49:04 MSK 2017] Access token exists
+[Ср дек 13 11:49:04 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 11:49:08 MSK 2017] File "Во имя Марса" has been downloaded
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 11:49:15 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 11:49:18 MSK 2017] Access token exists
+[Ср дек 13 11:49:19 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 11:51:22 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 11:51:25 MSK 2017] Access token exists
+[Ср дек 13 11:51:26 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 11:51:28 MSK 2017] File "Во имя Марса" has been downloaded
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 11:51:50 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 11:51:52 MSK 2017] Access token exists
+[Ср дек 13 11:51:52 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 11:52:58 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 11:53:01 MSK 2017] Access token exists
+[Ср дек 13 11:53:01 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 11:53:04 MSK 2017] File "Во имя Марса" has been downloaded
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 16:57:55 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 16:58:29 MSK 2017] Access token exists
+[Ср дек 13 16:58:30 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 16:59:57 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 16:59:59 MSK 2017] Access token exists
+[Ср дек 13 16:59:59 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 17:00:33 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 17:00:36 MSK 2017] Access token exists
+[Ср дек 13 17:00:36 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 17:02:02 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 17:02:04 MSK 2017] Access token exists
+[Ср дек 13 17:02:05 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 17:04:01 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 17:04:04 MSK 2017] Access token exists
+[Ср дек 13 17:04:04 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 17:07:03 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 17:07:07 MSK 2017] Access token exists
+[Ср дек 13 17:07:07 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 17:07:56 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 17:07:58 MSK 2017] Access token exists
+[Ср дек 13 17:07:59 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 17:08:35 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 17:08:38 MSK 2017] Access token exists
+[Ср дек 13 17:08:38 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 17:13:20 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 17:13:23 MSK 2017] Access token exists
+[Ср дек 13 17:13:23 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 17:15:05 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 17:15:07 MSK 2017] Access token exists
+[Ср дек 13 17:15:08 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 17:15:41 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 17:15:44 MSK 2017] Access token exists
+[Ср дек 13 17:15:45 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 17:17:01 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 17:17:04 MSK 2017] Access token exists
+[Ср дек 13 17:17:04 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 17:30:30 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 17:30:32 MSK 2017] Access token exists
+[Ср дек 13 17:30:33 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 17:38:24 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 17:38:27 MSK 2017] Access token exists
+[Ср дек 13 17:38:28 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 17:38:30 MSK 2017] Created Google Drive file "null" (18uggvBt5agxCI8_7SQr8ZJH9KP-Wk8WMtg66sZZe5AE)
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 17:39:09 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 17:39:13 MSK 2017] Access token exists
+[Ср дек 13 17:39:13 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 17:39:15 MSK 2017] Created Google Drive file "null" (1FbH2tSdlOvW2us1ThP6m93pLqp9RaHLMisk4098WmOQ)
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 17:42:52 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 17:42:56 MSK 2017] Access token exists
+[Ср дек 13 17:42:56 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 17:43:41 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 17:43:43 MSK 2017] Access token exists
+[Ср дек 13 17:43:44 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 17:44:10 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 17:44:12 MSK 2017] Access token exists
+[Ср дек 13 17:44:12 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 17:44:15 MSK 2017] Created Google Drive file "null" (19MNPws32hPqobcPi96NmW-avl7zDXoeCjAEcbCpVzac)
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 17:46:15 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 17:46:21 MSK 2017] Access token exists
+[Ср дек 13 17:46:21 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 17:46:24 MSK 2017] Created Google Drive file "null" (1EgDppc8UDIsbcNm0vedjEYXSHuDsNgh44sTLU8tRs_s)
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 17:48:25 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 17:48:27 MSK 2017] Access token exists
+[Ср дек 13 17:48:27 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 17:48:29 MSK 2017] File "My new document.docx" has been downloaded
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 17:49:57 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 17:50:12 MSK 2017] Access token exists
+[Ср дек 13 17:50:13 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 17:50:16 MSK 2017] Created Google Drive file "null" (1vxyRalQObtKkphO7-YV92rbZ12GDNmHoowQbfeshBSU)
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 17:53:32 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 17:53:35 MSK 2017] Access token exists
+[Ср дек 13 17:53:35 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 17:53:37 MSK 2017] Created Google Drive file "null" (1PDLINs25JrXjDLJ82nUqFAzR4i6WxuYg)
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:00:43 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:00:48 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:00:51 MSK 2017] Access token exists
+[Ср дек 13 18:00:51 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:01:56 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:01:58 MSK 2017] Access token exists
+[Ср дек 13 18:01:59 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 18:02:01 MSK 2017] Created Google Drive file 1BgOqqwKymzxQJBuQG7lukCVEejxYTvmdni7hHSMfQlw
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:03:56 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:04:04 MSK 2017] Access token exists
+[Ср дек 13 18:04:04 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:04:48 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:04:51 MSK 2017] Access token exists
+[Ср дек 13 18:04:52 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:05:14 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:05:21 MSK 2017] Access token exists
+[Ср дек 13 18:05:21 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:06:17 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:06:19 MSK 2017] Access token exists
+[Ср дек 13 18:06:20 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 18:06:21 MSK 2017] File "My new document" has been downloaded
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:24:55 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:24:59 MSK 2017] Access token exists
+[Ср дек 13 18:24:59 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 18:25:02 MSK 2017] Created Google Drive file 1X4tk1lfQcur4wxHVx-rigNuO9kNs8TucM-CEvgvTwK8
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:28:02 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:28:04 MSK 2017] Access token exists
+[Ср дек 13 18:28:04 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 18:28:06 MSK 2017] File "My new document" has been downloaded
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:32:27 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:32:32 MSK 2017] Access token exists
+[Ср дек 13 18:32:33 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 18:32:34 MSK 2017] File "My new document" has been downloaded
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:33:53 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:33:55 MSK 2017] Access token exists
+[Ср дек 13 18:33:56 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:34:14 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:34:24 MSK 2017] Access token exists
+[Ср дек 13 18:34:24 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:35:05 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:35:15 MSK 2017] Access token exists
+[Ср дек 13 18:35:15 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:35:55 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:35:57 MSK 2017] Access token exists
+[Ср дек 13 18:35:58 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:36:18 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:36:24 MSK 2017] Access token exists
+[Ср дек 13 18:36:25 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 18:36:27 MSK 2017] Created Google Drive file 1qLvbwrgV5xz7QqXe2OzDk-xI1Ut7RZ_0Tz5j6999_YU
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:39:31 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:39:39 MSK 2017] Access token exists
+[Ср дек 13 18:39:40 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 18:39:42 MSK 2017] Created Google Drive file 1OluwS-IxJ0pwfeCrhrFAjyvgRYdS74e2BM6B8vNfO94
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:41:32 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:41:35 MSK 2017] Access token exists
+[Ср дек 13 18:41:35 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:41:55 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:41:57 MSK 2017] Access token exists
+[Ср дек 13 18:41:57 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:42:27 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:42:28 MSK 2017] Access token exists
+[Ср дек 13 18:42:29 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 18:42:30 MSK 2017] Created Google Drive file 1fkSXSONNjCl6OuJFtBnyKDK2azWvq71u
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:42:41 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:42:45 MSK 2017] Access token exists
+[Ср дек 13 18:42:45 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 18:42:46 MSK 2017] Created Google Drive file 1u1MS9SW4boWPAbLSCB3vs2_0baADgO7A
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:43:09 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:43:12 MSK 2017] Access token exists
+[Ср дек 13 18:43:12 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 18:43:13 MSK 2017] Created Google Drive file 1GYv0WLt5bIz3nk9v8BN5FF-2Yi9ezLpK
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:47:25 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:47:28 MSK 2017] Access token exists
+[Ср дек 13 18:47:28 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:48:09 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:48:12 MSK 2017] Access token exists
+[Ср дек 13 18:48:13 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 18:48:14 MSK 2017] Created Google Drive file 1NuRH-fDKhrV-TTm1DPmnAWnxqSxgKqQG
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:49:45 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:49:49 MSK 2017] Access token exists
+[Ср дек 13 18:49:49 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 18:49:51 MSK 2017] Created Google Drive file 1tivIkkYxd17GdGOD28o1QHhqYLK-N8aP
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:50:09 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:50:12 MSK 2017] Access token exists
+[Ср дек 13 18:50:13 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 18:50:14 MSK 2017] Created Google Drive file 1iSKibNxxeZbCxxC1Owl-zZ94i7gVMHPX
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:52:21 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:52:24 MSK 2017] Access token exists
+[Ср дек 13 18:52:25 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:53:36 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:53:38 MSK 2017] Access token exists
+[Ср дек 13 18:53:38 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:54:50 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:54:53 MSK 2017] Access token exists
+[Ср дек 13 18:54:53 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 18:54:55 MSK 2017] Created Google Drive file 1hrZmmmLp2sjFW1jGwvUAUFg9L9_GAPhW
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:55:59 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:56:01 MSK 2017] Access token exists
+[Ср дек 13 18:56:02 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:57:26 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:57:29 MSK 2017] Access token exists
+[Ср дек 13 18:57:29 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:58:11 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:58:12 MSK 2017] Access token exists
+[Ср дек 13 18:58:13 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 18:58:32 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 18:58:34 MSK 2017] Access token exists
+[Ср дек 13 18:58:34 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 18:58:36 MSK 2017] Created Google Drive file 1P5wfAWnDVsYOrBId2wPyfptc12yA4nH9
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 19:26:51 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 19:27:28 MSK 2017] Access token exists
+[Ср дек 13 19:27:29 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 19:31:53 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 19:31:56 MSK 2017] Access token exists
+[Ср дек 13 19:31:56 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 19:31:58 MSK 2017] Created Google Drive file 1385RPOyu6tmffBJcbM_Fa8JhQXyFRUl1Gw-b9BeVb9I
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 19:32:20 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 19:32:23 MSK 2017] Access token exists
+[Ср дек 13 19:32:23 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 19:32:25 MSK 2017] Created Google Drive file 1dcUIxuxbKbKE-B7JuzVteAx1SUrXT7dcjJDh1o8Ey80
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 19:35:39 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 19:35:50 MSK 2017] Access token exists
+[Ср дек 13 19:35:51 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 19:36:15 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 19:36:17 MSK 2017] Access token exists
+[Ср дек 13 19:36:17 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 19:39:45 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 19:39:48 MSK 2017] Access token exists
+[Ср дек 13 19:39:48 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 19:41:34 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 19:41:36 MSK 2017] Access token exists
+[Ср дек 13 19:41:36 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 19:42:50 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 19:42:52 MSK 2017] Access token exists
+[Ср дек 13 19:42:52 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
