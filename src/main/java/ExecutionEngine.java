@@ -1,6 +1,11 @@
+import com.google.api.client.googleapis.batch.BatchRequest;
+import com.google.api.client.googleapis.batch.json.JsonBatchCallback;
+import com.google.api.client.googleapis.json.GoogleJsonError;
+import com.google.api.client.http.HttpHeaders;
 import com.google.api.services.drive.Drive;
 import com.google.api.services.drive.model.File;
 import com.google.api.services.drive.model.FileList;
+import com.google.api.services.drive.model.Permission;
 
 
 import java.io.IOException;
@@ -37,8 +42,33 @@ public class ExecutionEngine {
         Authorizer googleAuth = new Authorizer();
         Drive service = googleAuth.getDriveService();
 
+
+
+
         FileManager uploader = new FileManager(service);
-        uploader.CreateFile(newDocumentName);
+        String fileId = uploader.CreateFile(newDocumentName);
+
+        JsonBatchCallback<Permission> callback = new JsonBatchCallback<Permission>() {
+            @Override
+            public void onFailure(GoogleJsonError e, HttpHeaders responseHeaders) throws IOException {
+                System.err.println(e.getMessage());
+            }
+
+            @Override
+            public void onSuccess(Permission permission, HttpHeaders responseHeaders) throws IOException {
+                DBG.Log("Permission ID: " + permission.getId());
+            }
+        };
+
+        BatchRequest batch = service.batch();
+        Permission userPermission = new Permission()
+                .setType("user")
+                .setRole("writer")
+                .setEmailAddress(docUserEmail);
+        service.permissions().create(fileId, userPermission)
+                .setFields("id")
+                .queue(batch, callback);
+        batch.execute();
 
     }
 

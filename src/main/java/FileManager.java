@@ -25,26 +25,25 @@ public class FileManager {
         return file;
         }
 
-    public void CreateFile(String fileName)throws  IOException{
+    public String CreateFile(String fileName)throws  IOException{
 
-        OutputStream outputStream = new FileOutputStream(fileName+".doc");
+        OutputStream outputStream = new FileOutputStream(fileName);
         File fileMetadata = new File();
-        fileMetadata.setName(fileName+".doc");
+        fileMetadata.setName(fileName);
         fileMetadata.setMimeType("application/vnd.google-apps.document");
-       // fileMetadata.setMimeType("application/vnd.openxmlformats-officedocument.wordprocessingml.document");
-        java.io.File filePath = new java.io.File(fileName+".doc");
+        java.io.File filePath = new java.io.File(fileName);
         FileContent mediaContent = new FileContent("text/plain", filePath);
         File file = service.files().create(fileMetadata, mediaContent)
                 .setFields("id")
                 .execute();
         DBG.Log("Created Google Drive file %s",file.getId());
+        return file.getId();
     }
 
     public int DownloadFile(String fileID, String fileName){
         try {
             OutputStream outputStream = new FileOutputStream(fileName);
-            service.files().export(fileID,"application/vnd.openxmlformats-officedocument.wordprocessingml.document")
-                    .executeMediaAndDownloadTo(outputStream);
+            service.files().get(fileID).executeMediaAndDownloadTo(outputStream);
             return 0;
         } catch (IOException e) {
             e.printStackTrace();
@@ -57,8 +56,6 @@ public class FileManager {
         fileMetadata.setName(fileName);
         fileMetadata.setMimeType("application/vnd.openxmlformats-officedocument.wordprocessingml.document");
         java.io.File filePath = new java.io.File(fileName);
-        /*FileContent mediaContent =
-                new FileContent("application/vnd.openxmlformats-officedocument.wordprocessingml.document", filePath);*/
         FileContent mediaContent =
                 new FileContent("application/vnd.google-apps.document", filePath);
         service.files().update(fileId,fileMetadata,mediaContent).execute();
