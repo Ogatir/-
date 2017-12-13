@@ -1222,3 +1222,105 @@ Program execution begins
 Program execution ends
 ------------------------------------------------------
 
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 21:09:28 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 21:09:31 MSK 2017] Access token exists
+[Ср дек 13 21:09:32 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 21:12:14 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 21:12:17 MSK 2017] Access token exists
+[Ср дек 13 21:12:18 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 21:12:21 MSK 2017] Created Google Drive file 13lcWoa0fggpTSnvl77yhqDaZHuqUl1hZ7lK0dVup0M8
+[Ср дек 13 21:12:22 MSK 2017] Permission ID: 03712697928958494443
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 21:15:26 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 21:15:31 MSK 2017] Access token exists
+[Ср дек 13 21:15:31 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 21:16:04 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 21:16:07 MSK 2017] Access token exists
+[Ср дек 13 21:16:07 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 21:16:09 MSK 2017] ERROR: File "My new document.doc" cannot be downloaded
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 21:18:03 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 21:18:07 MSK 2017] Access token exists
+[Ср дек 13 21:18:07 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 21:18:08 MSK 2017] ERROR: File "My new document.doc" cannot be downloaded
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 21:18:27 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 21:18:30 MSK 2017] Access token exists
+[Ср дек 13 21:18:30 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 21:18:31 MSK 2017] File "My new document.doc" has been downloaded
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 21:18:38 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 21:18:41 MSK 2017] Access token exists
+[Ср дек 13 21:18:41 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 21:18:43 MSK 2017] File "My new document.doc" has been downloaded
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 21:22:34 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 21:22:37 MSK 2017] Access token exists
+[Ср дек 13 21:22:37 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+
+Program execution ends
+------------------------------------------------------
+
+
+Program execution begins
+------------------------------------------------------
+
+[Ср дек 13 21:23:33 MSK 2017] Хотите авторизоваться как новый пользователь (y/n)?
+[Ср дек 13 21:23:36 MSK 2017] Access token exists
+[Ср дек 13 21:23:36 MSK 2017] Credentials saved to /home/ivan/.credentials/drive-java-quickstart
+[Ср дек 13 21:23:38 MSK 2017] File "My new document.doc" has been downloaded
+
+Program execution ends
+------------------------------------------------------
+

@@ -43,7 +43,8 @@ public class FileManager {
     public int DownloadFile(String fileID, String fileName){
         try {
             OutputStream outputStream = new FileOutputStream(fileName);
-            service.files().get(fileID).executeMediaAndDownloadTo(outputStream);
+            //service.files().get(fileID).executeMediaAndDownloadTo(outputStream);
+            service.files().export(fileID,"text/plain").executeMediaAndDownloadTo(outputStream);
             return 0;
         } catch (IOException e) {
             e.printStackTrace();

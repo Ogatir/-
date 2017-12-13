@@ -1,0 +1,3 @@
+create "My new document.doc" ogatir@gmail.com
+get "My new document.doc"
+update "My new document.doc"

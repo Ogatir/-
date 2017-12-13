@@ -41,10 +41,6 @@ public class ExecutionEngine {
     public void Create(String newDocumentName, String docUserEmail) throws IOException {
         Authorizer googleAuth = new Authorizer();
         Drive service = googleAuth.getDriveService();
-
-
-
-
         FileManager uploader = new FileManager(service);
         String fileId = uploader.CreateFile(newDocumentName);
 
