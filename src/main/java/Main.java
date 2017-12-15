@@ -7,11 +7,14 @@ public class Main {
 
         DBG.LogWithoutTime("\nProgram execution begins\n------------------------------------------------------\n");
         ExecutionEngine executionEngine = new ExecutionEngine();
-        if ((args.length==3)&&(args[0].compareToIgnoreCase("create")==0)) {
+        if ((args.length>=3)&&(args[0].compareToIgnoreCase("create")==0)) {
             String newDocumentName = args[1];
-            String docUserEmail = args[2];
+            String docUserEmails[]=new String[args.length-2];
+            for (int i=2;i<args.length;i++){
+                docUserEmails[i-2]=args[i];
+            }
             try{
-                executionEngine.Create(newDocumentName,docUserEmail);
+                executionEngine.Create(newDocumentName,docUserEmails);
             } catch (IOException e) {
                 e.printStackTrace();
             }

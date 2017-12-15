@@ -38,7 +38,7 @@ public class ExecutionEngine {
         }
     }
 
-    public void Create(String newDocumentName, String docUserEmail) throws IOException {
+    public void Create(String newDocumentName, String docUserEmails[]) throws IOException {
         Authorizer googleAuth = new Authorizer();
         Drive service = googleAuth.getDriveService();
         FileManager uploader = new FileManager(service);
@@ -55,16 +55,19 @@ public class ExecutionEngine {
                 DBG.Log("Permission ID: " + permission.getId());
             }
         };
+        for (int i=0;i<docUserEmails.length;i++){
+            BatchRequest batch = service.batch();
+            Permission userPermission = new Permission()
+                    .setType("user")
+                    .setRole("writer")
+                    .setEmailAddress(docUserEmails[0]);
+            service.permissions().create(fileId, userPermission)
+                    .setFields("id")
+                    .queue(batch, callback);
+            batch.execute();
+            batch=null;
+        }
 
-        BatchRequest batch = service.batch();
-        Permission userPermission = new Permission()
-                .setType("user")
-                .setRole("writer")
-                .setEmailAddress(docUserEmail);
-        service.permissions().create(fileId, userPermission)
-                .setFields("id")
-                .queue(batch, callback);
-        batch.execute();
 
     }
 
@@ -90,13 +93,11 @@ public class ExecutionEngine {
     public void ViewDocuments () throws IOException{
         Authorizer googleAuth = new Authorizer();
         Drive service = googleAuth.getDriveService();
-
         FileList result = service.files().list()
                 .setPageSize(20)
                 .setFields("nextPageToken, files(id, name, fileExtension, kind)")
                 .execute();
         List<File> files = result.getFiles();
-
         if (files == null || files.size() == 0) {
             DBG.Log("No files found.");
         } else {
