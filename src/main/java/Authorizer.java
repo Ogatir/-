@@ -19,22 +19,24 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
+
+/**
+ * Авторизация пользователя на сервисе Google Drive
+ */
 public class Authorizer {
-    /** Application name. */
+
     private static final String APPLICATION_NAME = "KursRabAuto";
 
-    /** Directory to store user credentials for this application. */
+    /** Директория для хранения мантдата пользователя */
     private static final java.io.File DATA_STORE_DIR = new java.io.File(
             System.getProperty("user.home"), ".credentials/drive-java-quickstart");
 
-    /** Global instance of the {@link FileDataStoreFactory}. */
     private static FileDataStoreFactory DATA_STORE_FACTORY;
 
-    /** Global instance of the JSON factory. */
+    /** Для обработки ответа в формате json */
     private static final JsonFactory JSON_FACTORY =
             JacksonFactory.getDefaultInstance();
 
-    /** Global instance of the HTTP transport. */
     private static HttpTransport HTTP_TRANSPORT;
 
     /** Global instance of the scopes required by this quickstart.
@@ -56,8 +58,8 @@ public class Authorizer {
     }
 
     /**
-     * Creates an authorized Credential object.
-     * @return an authorized Credential object.
+     * Создание объекта, представляющего мандат
+     * @return объект мандата
      * @throws IOException
      */
     private Credential authorize() throws IOException {
@@ -85,23 +87,30 @@ public class Authorizer {
                         .setDataStoreFactory(DATA_STORE_FACTORY)
                         .setAccessType("offline")
                         .build();
-        Credential credential = new AuthorizationCodeInstalledApp(
-                flow, new LocalServerReceiver()).authorize("user");
+        try {
+            Credential credential = new AuthorizationCodeInstalledApp(
+                    flow, new LocalServerReceiver()).authorize("user");
 
-        DBG.Log("Credentials saved to " + DATA_STORE_DIR.getAbsolutePath());
-        return credential;
+            DBG.Log("Credentials saved to " + DATA_STORE_DIR.getAbsolutePath());
+            return credential;
+        } catch (IOException e){
+            DBG.Log("[ERROR: Authorizer.Authorize()]: %s",e.getMessage());
+            return  null;
+        }
     }
 
     /**
-     * Build and return an authorized Drive client service.
-     * @return an authorized Drive client service
+     * Создание объекта сервиса для взаимодействия с Google Drive
+     * @return авторизованный Google Drive клиент сервиса
      * @throws IOException
      */
     public Drive getDriveService() throws IOException {
         Credential credential = authorize();
-        return new Drive.Builder(
-                HTTP_TRANSPORT, JSON_FACTORY, credential)
-                .setApplicationName(APPLICATION_NAME)
-                .build();
+        if (credential!=null) {
+            return new Drive.Builder(
+                    HTTP_TRANSPORT, JSON_FACTORY, credential)
+                    .setApplicationName(APPLICATION_NAME)
+                    .build();
+        } else return null;
     }
 }
